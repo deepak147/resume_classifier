@@ -3,4 +3,5 @@
 Classify resume based on 19 different profession with just uploading teh document.
 
 To run the project:
-projectRun --> python app.py
+1. Unzip projectRun/Resume_dataset.zip
+2. Run projectRun/python app.py
